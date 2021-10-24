@@ -18,7 +18,7 @@ Nim	 : 20.01.013.019
     -	Soft code merupakan suatu proses pengkodean yang bisa diubah. Contoh : Kode yang di dalamnya masih bisa diubah
 
 6.	- 	 Interpreter merupakan penerjemah program tetapi menerjemahkan hanya perbaris saja. Contoh bahasa pemrograman yang menggunakan interpreter: Python, PHP.
-- 	Compiler = Mengkonversikan kode secara keseluruhan yang dilakukan sebelum meng run suatu program. Contoh bahasa pemrograman yang menggunakan Compiler: Visual Basic,Pascal, C++.
+    - 	Compiler = Mengkonversikan kode secara keseluruhan yang dilakukan sebelum meng run suatu program. Contoh bahasa pemrograman yang menggunakan Compiler: Visual                     Basic,Pascal, C++.
 
 7.	Program yang ditulis menggunakan Python dapat dijalankan di hampir semua sistem operasi seperti , Windows, Linux, Mac OS X, dll dan sintaks Python tidak menggunakan titik koma diakhir kode dan juga tidak menggunakan kurawal untuk memblokir program melainkan menggunakan tab.
 
